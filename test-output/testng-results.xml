@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-06T16:19:30 IST" name="Suite" finished-at="2024-01-06T16:19:30 IST" duration-ms="372">
+    <groups>
+    </groups>
+    <test started-at="2024-01-06T16:19:30 IST" name="Test" finished-at="2024-01-06T16:19:30 IST" duration-ms="372">
+      <class name="Third_Script.HomePage">
+        <test-method signature="Electronics()[pri:0, instance:Third_Script.HomePage@62010f5c]" started-at="2024-01-06T16:19:30 IST" name="Electronics" finished-at="2024-01-06T16:19:30 IST" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Electronics -->
+        <test-method signature="ProductImage()[pri:0, instance:Third_Script.HomePage@62010f5c]" started-at="2024-01-06T16:19:30 IST" name="ProductImage" finished-at="2024-01-06T16:19:30 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductImage -->
+        <test-method signature="SearchBar()[pri:0, instance:Third_Script.HomePage@62010f5c]" started-at="2024-01-06T16:19:30 IST" name="SearchBar" finished-at="2024-01-06T16:19:30 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchBar -->
+      </class> <!-- Third_Script.HomePage -->
+      <class name="First_Script.RagistrationPage">
+        <test-method signature="ValidEmailId()[pri:0, instance:First_Script.RagistrationPage@492691d7]" started-at="2024-01-06T16:19:30 IST" name="ValidEmailId" finished-at="2024-01-06T16:19:30 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidEmailId -->
+        <test-method signature="ValidMobileNo()[pri:0, instance:First_Script.RagistrationPage@492691d7]" started-at="2024-01-06T16:19:30 IST" name="ValidMobileNo" finished-at="2024-01-06T16:19:30 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidMobileNo -->
+        <test-method signature="ValidName()[pri:0, instance:First_Script.RagistrationPage@492691d7]" started-at="2024-01-06T16:19:30 IST" name="ValidName" finished-at="2024-01-06T16:19:30 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidName -->
+      </class> <!-- First_Script.RagistrationPage -->
+      <class name="Second_Script.LoginPage">
+        <test-method signature="Password()[pri:0, instance:Second_Script.LoginPage@27216cd]" started-at="2024-01-06T16:19:30 IST" name="Password" finished-at="2024-01-06T16:19:30 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Password -->
+        <test-method signature="ResetPassword()[pri:0, instance:Second_Script.LoginPage@27216cd]" started-at="2024-01-06T16:19:30 IST" name="ResetPassword" finished-at="2024-01-06T16:19:30 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ResetPassword -->
+        <test-method signature="Username()[pri:0, instance:Second_Script.LoginPage@27216cd]" started-at="2024-01-06T16:19:30 IST" name="Username" finished-at="2024-01-06T16:19:30 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Username -->
+        <test-method signature="WrongAttempts()[pri:0, instance:Second_Script.LoginPage@27216cd]" started-at="2024-01-06T16:19:30 IST" name="WrongAttempts" finished-at="2024-01-06T16:19:30 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WrongAttempts -->
+      </class> <!-- Second_Script.LoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
